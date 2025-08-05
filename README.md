@@ -17,5 +17,5 @@ This project applies a variety of image transformation effects to an input image
   - Inverted Colors
 - Visualize and compare outputs using `matplotlib`
 
-## 📁 Project Structure
+
 
